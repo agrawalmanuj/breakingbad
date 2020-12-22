@@ -65,13 +65,15 @@ input[type='text'] {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
+  border: none !important;
 }
 
 .card {
   cursor: pointer;
-  background-color: transparent;
+  background-color: transparent !important;
   height: 300px;
   perspective: 1000px;
+  border: none !important;
 }
 
 .card h1 {
@@ -119,6 +121,46 @@ input[type='text'] {
   list-style: none;
   padding-bottom: 10px;
 }
+.about_me{
+  cursor: pointer;
+  width: 100px;
+  padding:10px;
+}
+.about{
+  display: block;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 25px;
+
+	color: #FFF;
+}
+
+.about_h2{
+  font-size: 28px;
+	font-weight: 600;
+}
+
+.about_main_div{
+  display: flex;
+	flex-wrap: wrap;
+	margin: 0px -15px 30px;
+}
+
+.about_img{
+  flex: 1 1 50%;
+	max-width: 300px;
+  padding: 0px 15px;
+  margin-top: 20px;
+}
+
+.about_content{
+  flex: 1 1 50%;
+  padding: 15px;
+  margin-top: 20px;
+  line-height: 45px;
+}
+
 
 @media (max-width: 800px) {
   .cards {
