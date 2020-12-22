@@ -1,3 +1,21 @@
+### Screenshots
+
+1. ### Home Page
+<img width="1439" alt="1st" src="https://user-images.githubusercontent.com/37595073/102940263-eecbf980-44d5-11eb-932e-126185f976ed.png">
+
+2. ### Hover on Images
+<img width="1424" alt="2nd" src="https://user-images.githubusercontent.com/37595073/102940590-abbe5600-44d6-11eb-808a-90ff322f11e4.png">
+
+
+3. ### Click on image --> (used React Routing)
+<img width="1439" alt="3rd" src="https://user-images.githubusercontent.com/37595073/102940690-e7592000-44d6-11eb-8e80-49a3ebe9ddb6.png">
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,7 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-### Screenshots
-1. Home Page
-<img width="1439" alt="1st" src="https://user-images.githubusercontent.com/37595073/102940263-eecbf980-44d5-11eb-932e-126185f976ed.png">
 
